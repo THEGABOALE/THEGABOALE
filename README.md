@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/JRPIgSUiStAAAAAi/chill-guy-my-new-character.gif" width="300" alt="Chill Guy">
+  <img src="https://media1.tenor.com/m/Jo0PbgBIZzAAAAAd/chill-guy-my-new-character.gif" width="300" alt="Chill Guy">
 </div>
 
 # 💫 About Me:
