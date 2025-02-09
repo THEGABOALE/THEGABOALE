@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p>A simple and chill Sistem Engineering Student making it</p>
+<p>Just a simple and chill Sistem Engineering Student making it</p>
 </div>
 
 ## 🌐 Socials:
