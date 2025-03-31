@@ -26,14 +26,11 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&theme=dark&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">}
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
   </p>
 </details>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
-</p>
 
 <p align="center">
   <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
