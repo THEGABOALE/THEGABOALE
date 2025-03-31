@@ -1,3 +1,7 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/cj2bC_6fDKkAAAAd/my-new-character-chill-guy.gif" width="300" alt="Chill Guy">
 
