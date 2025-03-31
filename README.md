@@ -43,8 +43,25 @@
     </p>
   </details>
 
+  <details>
+    <summary align="center">&emsp;&emsp;TROFEOS🏆&emsp;&emsp;</summary>
+    <br>
+    <div align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=THEGABOALE&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+      </a>
+    </div>
+  </details>
+
+
+
+
 </details>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball">
 </p>
+
+<div>
+<a href="https://steamcommunity.com/profiles/76561199468458695/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
+</div>
