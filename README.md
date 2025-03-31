@@ -25,4 +25,7 @@
 ![snake gif](https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg)
 
 
+<p align="center">
+  <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
 
