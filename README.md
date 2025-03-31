@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THEGABOALE&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
@@ -13,8 +15,6 @@
 
 <p>Just a simple and chill Sistem Engineering Student making it</p>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
@@ -55,7 +55,6 @@
 
 
 
-
 </details>
 
 <p align="center">
@@ -65,3 +64,5 @@
 <div>
 <a href="https://steamcommunity.com/profiles/76561199468458695/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
