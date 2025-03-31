@@ -22,9 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
 </p>
 
-![snake gif](https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg)
-
-
 <p align="center">
   <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
 </p>
