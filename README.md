@@ -23,5 +23,6 @@
 </p>
 
 <div align="center>
- ![snake gif](https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg)
+  
+  ![snake gif](https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg)
 </div>
