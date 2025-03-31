@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=THEGABOALE&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
+
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/cj2bC_6fDKkAAAAd/my-new-character-chill-guy.gif" width="300" alt="Chill Guy">
 
@@ -22,17 +26,25 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&theme=dark&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">}
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
-  </p>
-</details>
-
-
 <p align="center">
-  <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball">
 </p>
 
+<details>
+  <summary align="center">&emsp;&emsp;OPEN THE POKEBALL&emsp;&emsp;</summary>
+
+  <details>
+    <summary align="center">&emsp;&emsp;GitHub Stats&emsp;&emsp;</summary>
+    <br>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
+    </p>
+  </details>
+
+</details>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball">
+</p>
