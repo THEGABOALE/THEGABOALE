@@ -32,7 +32,7 @@
 </div>
 
   <details>
-    <summary align="center"><b>&emsp;&emsp;My Tech Stack&emsp;&emsp;</b></summary>
+    <summary align="center"><b>&emsp;&emsp;My Tech Stack💻&emsp;&emsp;</b></summary>
     <div align="center">
       <kbd>
         <kbd>Programming Languages</kbd>
@@ -100,7 +100,7 @@
   </details>
 
   <details>
-  <summary align="center"><b>&emsp;&emsp;GitHub Stats&emsp;&emsp;</b></summary>
+  <summary align="center"><b>&emsp;&emsp;GitHub Stats📊&emsp;&emsp;</b></summary>
   <div align="center">
     <table align="center">
       <tr border="none">
