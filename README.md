@@ -129,7 +129,7 @@
 <details>
     <summary align="center"><b>&emsp;&emsp;My Socials🌐&emsp;&emsp;</b></summary>
     <div align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60" />
+      <a href="https://www.instagram.com/gabriel.garcia.ang/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="60" height="60" />
     </div>
   </details>
