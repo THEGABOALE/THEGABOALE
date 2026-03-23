@@ -100,21 +100,19 @@
   </details>
 
   <details>
-  <summary align="center"><b>&emsp;&emsp;GitHub Stats📊&emsp;&emsp;</b></summary>
-  <div align="center">
-    <table align="center">
-      <tr border="none">
-        <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-          <br><br>
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=THEGABOALE&theme=dark" />
-        </td>
-        <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10" alt="Top Langs"/>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <summary align="center"><b>📊 GitHub Stats</b></summary>
+  <br>
+  <p align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=THEGABOALE&theme=dark&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=THEGABOALE&theme=dark" alt="GitHub Streak"/>
+  </p>
+  <p align="center">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGABOALE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&langs_count=6&layout=compact" alt="Top Languages"/>
+    <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=THEGABOALE&theme=github_dark&utcOffset=-6" alt="Productive Time"/>
+  </p>
+  <p align="center">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THEGABOALE&theme=github_dark" alt="Profile Details"/>
+  </p>
 </details>
 
   <details>
