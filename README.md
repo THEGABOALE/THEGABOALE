@@ -1,12 +1,12 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=THEGABOALE&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THEGABOALE&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/cj2bC_6fDKkAAAAd/my-new-character-chill-guy.gif" width="300" alt="Chill Guy">
