@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
@@ -15,10 +19,6 @@
 
 <p>Just a simple and chill Sistem Engineering Student making it</p>
 </div>
-
-<p align="center">
-  <img src="https://github.com/THEGABOALE/THEGABOALE/blob/output/github-snake-dark.svg" alt="snake gif">
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball">
