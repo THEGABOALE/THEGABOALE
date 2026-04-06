@@ -139,7 +139,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="assets/Steam.gif" alt="Steam Logo" width="260" />
+</p>
 <p align="center">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199468458695&show_in_game_bg=true&show_recent_game_bg=true" />
 </p>
