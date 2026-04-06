@@ -139,6 +139,9 @@
 </p>
 
 
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199468458695&show_in_game_bg=true&show_recent_game_bg=true"/>
+
+<p align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199468458695&show_in_game_bg=true&show_recent_game_bg=true" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
